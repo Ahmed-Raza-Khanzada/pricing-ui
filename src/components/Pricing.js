@@ -35,7 +35,7 @@ export default function Pricing() {
 					<Button colorScheme='purple' size='lg' w='282px' mt='24px'>
 						Get Started
 					</Button>
-				</Box>
+				 </Box>
 
 				<Box p='60px' fontSize='18px' bg='white'>
 					<Text textAlign='left'>
