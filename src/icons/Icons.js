@@ -1,6 +1,6 @@
 import React from 'react';
 
-export function CheckIcon(props: any) {
+export function CheckIcon(props) {
   return (
     <svg
       {...props}
@@ -21,7 +21,7 @@ export function CheckIcon(props: any) {
 }
 
 
-export function MoneyBackGuaranteeIcon(props: any) {
+export function MoneyBackGuaranteeIcon(props) {
   return (
     <svg
       {...props}
@@ -46,7 +46,7 @@ export function MoneyBackGuaranteeIcon(props: any) {
   );
 }
 
-export function HassleFreeIcon(props: any) {
+export function HassleFreeIcon(props) {
   return (
     <svg
       {...props}
@@ -68,7 +68,7 @@ export function HassleFreeIcon(props: any) {
   );
 }
 
-export function MonthlySubscriptionIcon(props: any) {
+export function MonthlySubscriptionIcon(props) {
   return (
     <svg
       {...props}
